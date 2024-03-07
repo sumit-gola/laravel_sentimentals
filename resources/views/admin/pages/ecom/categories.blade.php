@@ -33,6 +33,8 @@
                                     <thead class="table-active">
                                         <tr>
                                             <th scope="col"> Name</th>
+                                            <th scope="col"> Name</th>
+                                            <th scope="col"> Name</th>
                                           
                                             <th scope="col">Action</th>
                                         </tr>
